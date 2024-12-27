@@ -1,3 +1,5 @@
+Here is what I'm working on👋
+
 • 👋 Hi, I’m @Byula
 • 👀 I’m interested in Data Science 
 • 🌱 I’m currently learning  Python 
@@ -5,4 +7,7 @@
 • 📫 How to reach me : Gmail 
 • 💬 Ask me about anything 
 • 😄 Pronouns: She/Her
-• ⚡ Fun fact: not required 
+• ⚡ Fun fact: not required   
+
+Connect 🤝
+Linked  Gmail 
