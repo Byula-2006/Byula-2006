@@ -10,4 +10,4 @@ Here is what I'm working on👋
 • ⚡ Fun fact: not required   
 
 Connect 🤝
-Linked  Gmail 
+Linkedin Gmail 
